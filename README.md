@@ -1,16 +1,37 @@
-### Hi there 👋
+# Welcome to Jey's Student Profile! 📚
 
-<!--
-**jujethmillares/jujethmillares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hello, I'm Jujeth, a passionate student exploring the world of technology and learning every day.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently studying BS Computer Science at Batangas State University in the Philippines. Beyond coding and classes, here are some fun facts about me:
+
+- 🚀 Im also a freelance NFT and digital artist.
+- 🎸 I play piano and ukulele and love jamming to any songs in my free time.
+- 📸 I'm an amateur photographer, and I enjoy capturing the beauty in everyday moments.
+- I like anime, music, and manga.
+
+## Academic Interests
+
+- Currently Studying: BS Computer Science
+- Interested In: CyberSecurity
+
+Feel free to explore more in my repositories!
+
+## Skills
+
+- Programming Languages: 
+- Technologies: 
+- Other Skills: 
+
+## Connect with Me
+
+- [LinkedIn]
+- [Twitter]
+- [Personal Blog]
+
+## Contact
+
+📧 You can reach me at 
+
+Let's learn, code, and have some fun along the way! 🚀🎉
