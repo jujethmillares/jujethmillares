@@ -1,4 +1,4 @@
-# Welcome to Jey's Student Profile! 📚
+# Welcome to Jujeth's Student Profile! 📚
 
 👋 Hello, I'm Jujeth, a passionate student exploring the world of technology and learning every day.
 
